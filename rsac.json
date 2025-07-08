@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/security/v2",
-    "id": "https://vharsh.github.io/DID/mock-rsac.json",
+    "id": "https://raw.githubusercontent.com/kunalash/Files/refs/heads/main/rsac.json",
     "assertionMethod": [
         "https://raw.githubusercontent.com/kunalash/Files/refs/heads/main/rsa.json"
     ]
