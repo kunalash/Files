@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/security/v2",
+  "type": "RsaVerificationKey2018",
+  "id": "https://vharsh.github.io/DID/mock-rsa.json",
+  "controller": "https://vharsh.github.io/DID/mock-rsac.json",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhYzWRJzgHar+bzurglKM+I1B1aycRtTO0DilPBENKuOsPWwI8LajwZhmMnK/kTLgMyAyT5Y474UZ/g78s8zDfAr9p/lfD4sCVcyvl/dR4/pfK6mLufteAAy54Dxq31NuSNVmg85k1BdBwnG8LNBur403KbZEpDr8bbucoOde0TmRdkgn/QGOlTKjh8q4iNnH3ry0nBuMD27wLxKGU6O9FvRi6iRNxfegpqXBXr7lxslfw/PbGfhuh0Edeyhfondg9Q2NtiXN1xnoeeXGYipf8phoWWXoYkHjSF0bKpw4QCwy5ogYM7vvcGEG1cxHq1rAnSjEpCRGtVgpcMZfi4Ig/wIDAQAB\r\n-----END PUBLIC KEY-----\r\n"
+}
