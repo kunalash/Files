@@ -6,7 +6,7 @@
   "id": "did:web:raw.githubusercontent.com:kunalash:Files:refs:heads:main",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkhKiBj9rF7Tu32krXR1JLajtKyAL7jvfoS3edHqxMo8Y9",
+      "publicKeyMultibase": "z6MkvYzBv9Q9rzWCWEP4kSYhdCF51U175eNWniCt5Zj7CRp3",
       "controller": "did:web:raw.githubusercontent.com:kunalash:Files:refs:heads:main",
       "id": "did:web:raw.githubusercontent.com:kunalash:Files:refs:heads:main",
       "type": "Ed25519VerificationKey2020",
